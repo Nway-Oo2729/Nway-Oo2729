@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Htet Htet Nway Oo
 
-<!--
-**Nway-Oo2729/Nway-Oo2729** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### MSc Business Analytics at Aston University | Aspiring Data Analyst
 
-Here are some ideas to get you started:
+I'm building a career in data analytics, bringing a background in insurance, business development, and business operations. My MSc Business Analytics studies at Aston University are helping me connect business questions with analytical thinking.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm interested in using data to understand business performance, improve operations, and support clear, evidence-based decisions.
+
+## Analytics development
+
+I'm developing my analytics skills through my studies and portfolio work. This profile will grow as I document the tools, methods, and practical work I can demonstrate.
+
+## Career interests
+
+- Data analytics and business intelligence
+- Business analytics and operational improvement
+- Insurance analytics
+- Predictive analytics and machine learning
+
+## Projects — in progress
+
+My data analytics portfolio is currently in progress. I'll add project summaries, methods, findings, and links as the work becomes ready to share.
+
+## Connect with me
+
+[LinkedIn](https://www.linkedin.com/in/htet-htet-nway-oo-473830236/) · [GitHub](https://github.com/Nway-Oo2729)
